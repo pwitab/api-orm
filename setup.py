@@ -15,6 +15,8 @@ REQUIRES_PYTHON = '>=3.6'
 # What packages are required for this module to be executed?
 REQUIRED = [
     'marshmallow>=3.0.0b1',
+    'iso8601',
+    'requests',
 ]
 
 # What packages are optional?
